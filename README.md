@@ -4,10 +4,11 @@ This project is a two-player tic-tac-toe game. It was built following the [React
 
 ![tic-tac-toe](/public/tic-tac-toe.png)
 
-### Configuration
+### Set-up
 
-In the project directory, run:
+- Clone the repository
+- In the project directory, run:
 ```
 npm start
 ```
-Open http://localhost:3000 to play the game.
+- Open http://localhost:3000 to play the game.
