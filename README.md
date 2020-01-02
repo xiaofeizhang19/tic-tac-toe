@@ -7,7 +7,11 @@ This project is a two-player tic-tac-toe game. It was built following the [React
 ### Set-up
 
 - Clone the repository
-- In the project directory, run:
+- In the project directory, install JS denpendencies:   
+```
+npm install
+```
+- Run:
 ```
 npm start
 ```
